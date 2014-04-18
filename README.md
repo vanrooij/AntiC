@@ -22,3 +22,8 @@ Inside the mobile app folder:
 
 Most of the code that we worked on is centralized inside the app/assets/www/ folder.
 The HTML documentation was generated via yuidocs and can be found inside app/docs/
+
+
+Location to current application version is Antic/bin/Antic.apk
+
+Users can download this .apk file to their Android device and use an application installer to install it into their phone.
